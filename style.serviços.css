@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    height: 160vh;
+}
+
+.caixa-img-serv-calha {
+    display: flex;
+}
+
+.h1-serv-calha {
+    position: absolute;
+    text-align: center;
+    width: 90vw;
+    top: 10vh;
+}
+
+.img-calha-1 {
+    background-color: darkgray;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 25vh;
+    left: 10vw;
+}
+
+.img-calha-2 {
+    background-color: darkgray;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 25vh;
+    left: 40vw;
+}
+
+.img-calha-3 {
+    background-color: darkgray;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 25vh;
+    left: 70vw;
+}
+
+
+
+
+.caixa-img-serv-const {
+    display: flex;
+    position: absolute;
+    top: 80vh;
+}
+
+.h1-serv-const {
+    position: absolute;
+    text-align: center;
+    width: 90vw;
+}
+
+.img-const-1 {
+    background-color: darkgray;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 15vh;
+    left: 10vw;
+}
+
+.img-const-2 {
+    background-color: darkgray;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 15vh;
+    left: 40vw;
+}
+
+.img-const-3 {
+    background-color: darkgray;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 15vh;
+    left: 70vw;
+}
